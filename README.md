@@ -289,6 +289,11 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+![Screenshot 2024-01-01 212831](https://github.com/SuryaR03/productcompanywebsite/assets/147140237/ddabd453-8457-46df-b938-ed7747b27190)
+![Screenshot 2024-01-01 212845](https://github.com/SuryaR03/productcompanywebsite/assets/147140237/82d2db0e-e792-4681-901b-2fc80c40ecff)
+![Screenshot 2024-01-01 212907](https://github.com/SuryaR03/productcompanywebsite/assets/147140237/a8d07051-f53f-4887-b897-1697105f21b4)
+![Screenshot 2024-01-01 212934](https://github.com/SuryaR03/productcompanywebsite/assets/147140237/b07b0c33-4ff3-4d73-a29f-e6e50f212010)
+![Screenshot 2024-01-01 212942](https://github.com/SuryaR03/productcompanywebsite/assets/147140237/09ed19a1-3516-476e-af5d-f185a2a28acd)
 
 
 ## Result:
